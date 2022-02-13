@@ -1,7 +1,7 @@
 # Graphene-adatom
 Scripts for reproducing Graphene-adatom paper results
 
-Code:
+Codes to add:
 
 • to generate unit cell, tight-binding model and energy bands for PBC
 
