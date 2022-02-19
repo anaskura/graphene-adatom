@@ -9,6 +9,6 @@ Codes:
 
 • to generate graphene spectrum for OBC graphene flake and ribbon geometry and get corner states
 
-• to readoff and visualize corner states 
+• to visualize corner states and check thermodynamic limit
 
 • filling anomaly explained with double haldane model
