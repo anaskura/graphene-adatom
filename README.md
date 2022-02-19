@@ -11,4 +11,4 @@ Codes:
 
 • to visualize corner states and check thermodynamic limit
 
-• filling anomaly explained with double haldane model
+• explain filling anomaly with double Haldane model
