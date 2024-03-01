@@ -1,14 +1,13 @@
-# Graphene-adatom
-Scripts for reproducing Graphene-adatom paper results
+# Graphene with periodically disctributed adatoms
+Code to reproduce the results of the paper "Flat bands with fragile topology through superlattice engineering on single-layer graphene"
+A. Skurativska et.al, Phys. Rev. Research 3, L032003 (2021).
 
-Codes:
+This code does the following:
 
-• to generate unit cell, tight-binding model and energy bands for PBC
+• generates a tight-binding model and a band structure of a system of graphene with periodically distributed adatoms on top;
 
-• to analyze the symmetry eigenvalues of the bands
+• analyzes the symmetry eigenvalues of the bands at high-symmetry points;
 
-• to generate graphene spectrum for OBC graphene flake and ribbon geometry and get corner states
+• generates the OBC spectrum for the flake and ribbon geometries;
 
-• to readoff and visualize corner states 
-
-• filling anomaly explained with double haldane model
+• visualizes the corner states found in the lattice geometry. 
